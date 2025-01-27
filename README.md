@@ -49,11 +49,16 @@ Projeyi Visual Studio üzerinde açın ve F5 tuşuna basarak çalıştırın.
 API'niz https://localhost:5001 adresinde aktif olacaktır.
 API Endpoints
 
-Kullanıcı Tanımlama:   Yeni kullanıcı tanımlaması yapar. POST /api/users
-Sipariş Tanımlama:     Yeni sipariş kaydı oluşturur. POST /api/orders
-Ürün Tanımlama:        Ürün bilgilerini kaydeder. POST /api/products
-Renk Tanımlama:        Ürün renklerini yönetir. POST /api/colors
-Depo Raporu:           Depo bilgilerini ve mevcut ürünleri raporlar. GET /api/warehouse-report
+### Kullanıcı Tanımlama:
+Yeni kullanıcı tanımlaması yapar. POST /api/users
+### Sipariş Tanımlama:   
+Yeni sipariş kaydı oluşturur. POST /api/orders
+### Ürün Tanımlama:   
+Ürün bilgilerini kaydeder. POST /api/products
+### Renk Tanımlama:   
+Ürün renklerini yönetir. POST /api/colors
+### Depo Raporu:    
+Depo bilgilerini ve mevcut ürünleri raporlar. GET /api/warehouse-report
 
 ## Veritabanı Yapısı:
 Tüm tablolarda aşağıdaki kolonlar yer almalıdır:
