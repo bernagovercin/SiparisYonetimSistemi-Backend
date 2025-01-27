@@ -17,6 +17,12 @@ Frontend: Angular (Angular CLI)
 Prerequisites (Ön Koşullar)
 Proje çalıştırılmadan önce aşağıdaki yazılımların sisteminizde yüklü olduğundan emin olun:
 
+1. DevArchitecture
+DevArchitecture Backend Template Pack'i, DevArchitecture çatısı altında backend geliştirme için kullanılan temel şablonları içerir. Bu şablonlar, projelerin hızlıca yapılandırılmasını sağlar ve geliştiricilerin backend süreçlerini düzenlemelerine yardımcı olur. Visual Studio ile kolayca entegre edilerek sağlam bir temel sunar.
+
+2. DevArchitectureGen
+DevArchitectureGen bir Kod Üreteci aracıdır. Backend geliştirme sürecinde model tabanlı yaklaşım kullanarak hızlıca kod üretmek için kullanılır. Bu araç, sürekli geliştirme yapan projelerde zaman kazanılmasına yardımcı olur ve yazılım geliştirme sürecini daha verimli hale getirir.
+
 .NET 5 veya daha yeni bir sürüm İndir
 MS SQL Server İndir
 Projeyi Çalıştırma
